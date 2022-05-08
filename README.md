@@ -12,7 +12,7 @@ That's it. You are ready to go. To execute this project just type
 npm start
 ```
 
-Enjoy...!
+Enjoy...! <br>
 Below are some screenshots of working website: 
 ![2022-05-08 (1)](https://user-images.githubusercontent.com/60167065/167306558-46844f4d-b857-4a51-b0d0-e58c8b4fac1d.png)
 ![2022-05-08 (2)](https://user-images.githubusercontent.com/60167065/167306560-22f7e450-b7f5-4645-9d9b-b7f4d0a2d812.png)
