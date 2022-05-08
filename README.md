@@ -1,5 +1,5 @@
 # CRUD_Application_Node
-In this project, I have created anode CRUD application with express and mongodb.
+In this project, I have created an Employee management web app using node, express and mongodb.
 
 #### To Run this project Clone it and install modules using
 ```
